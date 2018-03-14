@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://vinizorza.github.io
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Vinicius Zorzanelli
+description: Estudante de Sistemas de Informação, 22 anos. Programo quando não estou vendo série ou jogando. Na área de tecnologia, qualquer coisa de desenvolvimento eu to dentro.
 google_verification: null
 
 
