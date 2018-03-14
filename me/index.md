@@ -1,6 +1,6 @@
 ---
 layout: me
-title: Vinicius Zorzanelli
+title: me
 ---
 
-Atualmente faço estágio na área de desenvolvimento numa empresa de softwares ferroviários. Também gosto de robótica, em que fui integrante da equipe vencedora no campeonato estadual de robótica 2016 (TRUFES) e do campeonato latino americano de robótica 2016 (LARC).
+Estudante de Sistemas de Informação, 22 anos. Programo quando não estou vendo série ou jogando. Na área de tecnologia, qualquer coisa de desenvolvimento eu to dentro, principalmente estes assuntos: Data Science, Desenvolvimento Web, PWA e Aplicações Desktop.
